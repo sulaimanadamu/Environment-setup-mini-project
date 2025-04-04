@@ -3,7 +3,7 @@
 we begin by installing a couple of softwares this involve
 - `Git` : for managing source code versioning.
 
-![git](./images/git.png)
+![git](./images/git-version.png)
 
 
 - `Vscode` : for writing the codebase or writing test which ever case it maybe.
@@ -12,7 +12,7 @@ we begin by installing a couple of softwares this involve
 
 - `VirtualBox` : An hypervisor that allows setting up of different virtual machines.
 
-![virtualBox](./images/virtual-box.png)
+![virtualBox](./images/ubuntu-login.png)
 
 - `MobaXterm` : to connect with online servers.
 
